@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: ce6386bccf168a846b069a430c347376
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3518499024077170675
+    second: 06-conjurer_0
+  - first:
+      213: -7386380058586100975
+    second: 06-conjurer_1
+  - first:
+      213: 5742047249439292114
+    second: 06-conjurer_2
+  - first:
+      213: 1080803770326554908
+    second: 06-conjurer_3
+  - first:
+      213: -5573181842174768256
+    second: 06-conjurer_4
+  - first:
+      213: -8938816815539246305
+    second: 06-conjurer_5
+  - first:
+      213: -3827670959297457612
+    second: 06-conjurer_6
+  - first:
+      213: -6851100836459385016
+    second: 06-conjurer_7
+  - first:
+      213: -8757696974015423735
+    second: 06-conjurer_8
+  - first:
+      213: 1760188961605476543
+    second: 06-conjurer_9
+  - first:
+      213: -4241099505223134429
+    second: 06-conjurer_10
+  - first:
+      213: 850718043917301116
+    second: 06-conjurer_11
+  - first:
+      213: -8849761800075459216
+    second: 06-conjurer_12
+  - first:
+      213: -4416209840726107754
+    second: 06-conjurer_13
+  - first:
+      213: -5489904505428968604
+    second: 06-conjurer_14
+  - first:
+      213: 1141501899701660465
+    second: 06-conjurer_15
+  - first:
+      213: -8705121902009326151
+    second: 06-conjurer_16
+  - first:
+      213: 1946653961402598665
+    second: 06-conjurer_17
+  - first:
+      213: 7150700872073094940
+    second: 06-conjurer_18
+  - first:
+      213: 7859846163115325659
+    second: 06-conjurer_19
+  - first:
+      213: 5994974927446039616
+    second: 06-conjurer_20
+  - first:
+      213: 2612447997704865983
+    second: 06-conjurer_21
+  - first:
+      213: -9059982969446718733
+    second: 06-conjurer_22
+  - first:
+      213: 7840269928598721943
+    second: 06-conjurer_23
+  - first:
+      213: -1255661537069220304
+    second: 06-conjurer_24
+  - first:
+      213: -3243732642192682616
+    second: 06-conjurer_25
+  - first:
+      213: 2273238088820818945
+    second: 06-conjurer_26
+  - first:
+      213: -8443360218932395584
+    second: 06-conjurer_27
+  - first:
+      213: -6899468892225024540
+    second: 06-conjurer_28
+  - first:
+      213: -3121459097781369528
+    second: 06-conjurer_29
+  - first:
+      213: 4948490841748110585
+    second: 06-conjurer_30
+  - first:
+      213: 2049255720987292505
+    second: 06-conjurer_31
+  - first:
+      213: 5858898419225038401
+    second: 06-conjurer_32
+  - first:
+      213: 8568994151351111775
+    second: 06-conjurer_33
+  - first:
+      213: 1271010650197597013
+    second: 06-conjurer_34
+  - first:
+      213: -5638550212757713724
+    second: 06-conjurer_35
+  - first:
+      213: -6927201855479420004
+    second: 06-conjurer_36
+  - first:
+      213: -7216869130870312808
+    second: 06-conjurer_37
+  - first:
+      213: -7818953511455338321
+    second: 06-conjurer_38
+  - first:
+      213: -7934564214824970053
+    second: 06-conjurer_39
+  - first:
+      213: -2734530922014723946
+    second: 06-conjurer_40
+  - first:
+      213: -2540340011690563430
+    second: 06-conjurer_41
+  - first:
+      213: -5157012892608620488
+    second: 06-conjurer_42
+  - first:
+      213: 6813596119403271534
+    second: 06-conjurer_43
+  - first:
+      213: -1646194822308855021
+    second: 06-conjurer_44
+  - first:
+      213: -4615483796217930271
+    second: 06-conjurer_45
+  - first:
+      213: 4292317975825386426
+    second: 06-conjurer_46
+  - first:
+      213: 3775857230090038389
+    second: 06-conjurer_47
+  - first:
+      213: -6240028345200369
+    second: 06-conjurer_48
+  - first:
+      213: -5605322040946790986
+    second: 06-conjurer_49
+  - first:
+      213: 4113152350291279966
+    second: 06-conjurer_50
+  - first:
+      213: -3904790029009122995
+    second: 06-conjurer_51
+  - first:
+      213: 7053711312572236790
+    second: 06-conjurer_52
+  - first:
+      213: -5082491557816386795
+    second: 06-conjurer_53
+  - first:
+      213: -8645277050797509805
+    second: 06-conjurer_54
+  - first:
+      213: 1415421438504560106
+    second: 06-conjurer_55
+  - first:
+      213: -4187229646636616420
+    second: 06-conjurer_56
+  - first:
+      213: -1970732528025092826
+    second: 06-conjurer_57
+  - first:
+      213: 862698076272677565
+    second: 06-conjurer_58
+  - first:
+      213: 4854314258748158737
+    second: 06-conjurer_59
+  - first:
+      213: 772483893635962709
+    second: 06-conjurer_60
+  - first:
+      213: 1484065046818147425
+    second: 06-conjurer_61
+  - first:
+      213: 3531791553273587284
+    second: 06-conjurer_62
+  - first:
+      213: 8919086169256565869
+    second: 06-conjurer_63
+  - first:
+      213: -2933080222754547515
+    second: 06-conjurer_64
+  - first:
+      213: 869511520337572637
+    second: 06-conjurer_65
+  - first:
+      213: -6699145373712369761
+    second: 06-conjurer_66
+  - first:
+      213: 329026658675062799
+    second: 06-conjurer_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 06-conjurer_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7ada8783834d030800000000000000
+      internalID: 3518499024077170675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b42ffa87e4e7990800000000000000
+      internalID: -7386380058586100975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 15
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da765afc89dfaf40800000000000000
+      internalID: 5742047249439292114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1997328d49cffe00800000000000000
+      internalID: 1080803770326554908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 95
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b048c74a418a2b0800000000000000
+      internalID: -5573181842174768256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 111
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bae755771f2f380800000000000000
+      internalID: -8938816815539246305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 95
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4321ff9da8161eac0800000000000000
+      internalID: -3827670959297457612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fe47286100ce0a0800000000000000
+      internalID: -6851100836459385016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 111
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b1c4d9009667680800000000000000
+      internalID: -8757696974015423735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 95
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0ee02e8827d6810800000000000000
+      internalID: 1760188961605476543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323171668769425c0800000000000000
+      internalID: -4241099505223134429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75b4bbbd8b5ecb00800000000000000
+      internalID: 850718043917301116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 15
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0754ea7e7845f2580800000000000000
+      internalID: -8849761800075459216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6999fe54c8876b2c0800000000000000
+      internalID: -4416209840726107754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 95
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bf61760f0ffc3b0800000000000000
+      internalID: -5489904505428968604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 111
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ba62a0eed67df00800000000000000
+      internalID: 1141501899701660465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 95
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5e24870c1313780800000000000000
+      internalID: -8705121902009326151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905420ec677e30b10800000000000000
+      internalID: 1946653961402598665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 111
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c172efe9e846c3360800000000000000
+      internalID: 7150700872073094940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_19
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 95
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8b4bd2178c31d60800000000000000
+      internalID: 7859846163115325659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 79
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c5bcb0fed623350800000000000000
+      internalID: 5994974927446039616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb80161dc97414420800000000000000
+      internalID: 2612447997704865983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f22a0bbd79744280800000000000000
+      internalID: -9059982969446718733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 79
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795dd45e5fb3ecc60800000000000000
+      internalID: 7840269928598721943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e3edc1c7ef29ee0800000000000000
+      internalID: -1255661537069220304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 63
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88114c31952fbf2d0800000000000000
+      internalID: -3243732642192682616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1048d066ff92c8f10800000000000000
+      internalID: 2273238088820818945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1cedf9d9823da80800000000000000
+      internalID: -8443360218932395584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_28
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 79
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edc114f8992040a0800000000000000
+      internalID: -6899468892225024540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84584df1d795ea4d0800000000000000
+      internalID: -3121459097781369528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc7bacc3329ca440800000000000000
+      internalID: 4948490841748110585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 79
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9537267883b607c10800000000000000
+      internalID: 2049255720987292505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 79
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e810d021dfe4150800000000000000
+      internalID: 5858898419225038401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 63
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50dea9b7ce2be670800000000000000
+      internalID: 8568994151351111775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 79
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b14c6c37983a110800000000000000
+      internalID: 1271010650197597013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_35
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 63
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc8f50b478dfb1b0800000000000000
+      internalID: -5638550212757713724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9be8b44d92addf90800000000000000
+      internalID: -6927201855479420004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8903ef713c788db90800000000000000
+      internalID: -7216869130870312808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 47
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0596a353f7d7390800000000000000
+      internalID: -7818953511455338321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8d4dfb2e3c2e190800000000000000
+      internalID: -7934564214824970053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_40
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690bdf55d9efc0ad0800000000000000
+      internalID: -2734530922014723946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98e87af736eebcd0800000000000000
+      internalID: -2540340011690563430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 47
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83814f1e81c9e68b0800000000000000
+      internalID: -5157012892608620488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6513041291ce8e50800000000000000
+      internalID: 6813596119403271534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_44
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 47
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3138131f78a8729e0800000000000000
+      internalID: -1646194822308855021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 31
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eddbd3f0f182ffb0800000000000000
+      internalID: -4615483796217930271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 47
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb88141570619b30800000000000000
+      internalID: 4292317975825386426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_47
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 31
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c6b1a352a866430800000000000000
+      internalID: 3775857230090038389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_48
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 47
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01981f2ab4d9eff0800000000000000
+      internalID: -6240028345200369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_49
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bde2b15d45e532b0800000000000000
+      internalID: -5605322040946790986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_50
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 47
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50cc2a254ad41930800000000000000
+      internalID: 4113152350291279966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_51
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d498c6638266fc9c0800000000000000
+      internalID: -3904790029009122995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3c50e0111d3e160800000000000000
+      internalID: 7053711312572236790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bbe6a3bdc5779b0800000000000000
+      internalID: -5082491557816386795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353b062b35ec50880800000000000000
+      internalID: -8645277050797509805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_55
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 15
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae569819c4694a310800000000000000
+      internalID: 1415421438504560106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c157d3f32d8f3e5c0800000000000000
+      internalID: -4187229646636616420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_57
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62db1c7053d86a4e0800000000000000
+      internalID: -1970732528025092826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db255a0645be8fb00800000000000000
+      internalID: 862698076272677565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_59
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1133ccc591dfd5340800000000000000
+      internalID: 4854314258748158737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_60
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 15
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557d1ea220a68ba00800000000000000
+      internalID: 772483893635962709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_61
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c4b231c45789410800000000000000
+      internalID: 1484065046818147425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_62
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456e89994b1730130800000000000000
+      internalID: 3531791553273587284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_63
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 15
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c13a79d95f6cb70800000000000000
+      internalID: 8919086169256565869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8ddf8d31b9b47d0800000000000000
+      internalID: -2933080222754547515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_65
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13b4d1fe10211c00800000000000000
+      internalID: 869511520337572637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 15
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f973c25b6cad703a0800000000000000
+      internalID: -6699145373712369761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 06-conjurer_67
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08f5f7b000f09400800000000000000
+      internalID: 329026658675062799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      06-conjurer_0: 3518499024077170675
+      06-conjurer_1: -7386380058586100975
+      06-conjurer_10: -4241099505223134429
+      06-conjurer_11: 850718043917301116
+      06-conjurer_12: -8849761800075459216
+      06-conjurer_13: -4416209840726107754
+      06-conjurer_14: -5489904505428968604
+      06-conjurer_15: 1141501899701660465
+      06-conjurer_16: -8705121902009326151
+      06-conjurer_17: 1946653961402598665
+      06-conjurer_18: 7150700872073094940
+      06-conjurer_19: 7859846163115325659
+      06-conjurer_2: 5742047249439292114
+      06-conjurer_20: 5994974927446039616
+      06-conjurer_21: 2612447997704865983
+      06-conjurer_22: -9059982969446718733
+      06-conjurer_23: 7840269928598721943
+      06-conjurer_24: -1255661537069220304
+      06-conjurer_25: -3243732642192682616
+      06-conjurer_26: 2273238088820818945
+      06-conjurer_27: -8443360218932395584
+      06-conjurer_28: -6899468892225024540
+      06-conjurer_29: -3121459097781369528
+      06-conjurer_3: 1080803770326554908
+      06-conjurer_30: 4948490841748110585
+      06-conjurer_31: 2049255720987292505
+      06-conjurer_32: 5858898419225038401
+      06-conjurer_33: 8568994151351111775
+      06-conjurer_34: 1271010650197597013
+      06-conjurer_35: -5638550212757713724
+      06-conjurer_36: -6927201855479420004
+      06-conjurer_37: -7216869130870312808
+      06-conjurer_38: -7818953511455338321
+      06-conjurer_39: -7934564214824970053
+      06-conjurer_4: -5573181842174768256
+      06-conjurer_40: -2734530922014723946
+      06-conjurer_41: -2540340011690563430
+      06-conjurer_42: -5157012892608620488
+      06-conjurer_43: 6813596119403271534
+      06-conjurer_44: -1646194822308855021
+      06-conjurer_45: -4615483796217930271
+      06-conjurer_46: 4292317975825386426
+      06-conjurer_47: 3775857230090038389
+      06-conjurer_48: -6240028345200369
+      06-conjurer_49: -5605322040946790986
+      06-conjurer_5: -8938816815539246305
+      06-conjurer_50: 4113152350291279966
+      06-conjurer_51: -3904790029009122995
+      06-conjurer_52: 7053711312572236790
+      06-conjurer_53: -5082491557816386795
+      06-conjurer_54: -8645277050797509805
+      06-conjurer_55: 1415421438504560106
+      06-conjurer_56: -4187229646636616420
+      06-conjurer_57: -1970732528025092826
+      06-conjurer_58: 862698076272677565
+      06-conjurer_59: 4854314258748158737
+      06-conjurer_6: -3827670959297457612
+      06-conjurer_60: 772483893635962709
+      06-conjurer_61: 1484065046818147425
+      06-conjurer_62: 3531791553273587284
+      06-conjurer_63: 8919086169256565869
+      06-conjurer_64: -2933080222754547515
+      06-conjurer_65: 869511520337572637
+      06-conjurer_66: -6699145373712369761
+      06-conjurer_67: 329026658675062799
+      06-conjurer_7: -6851100836459385016
+      06-conjurer_8: -8757696974015423735
+      06-conjurer_9: 1760188961605476543
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

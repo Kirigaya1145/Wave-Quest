@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 551efccd12da0334c93fbbd49c8acf91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7605826129542077751
+    second: 04-scout_0
+  - first:
+      213: 1345197599119195725
+    second: 04-scout_1
+  - first:
+      213: -4697770588757175940
+    second: 04-scout_2
+  - first:
+      213: -1848255899590086315
+    second: 04-scout_3
+  - first:
+      213: 5420374186580379584
+    second: 04-scout_4
+  - first:
+      213: -1683782653570057229
+    second: 04-scout_5
+  - first:
+      213: -3562645182161188927
+    second: 04-scout_6
+  - first:
+      213: 6289782586957082753
+    second: 04-scout_7
+  - first:
+      213: -3202586891510351576
+    second: 04-scout_8
+  - first:
+      213: -4569101760927489762
+    second: 04-scout_9
+  - first:
+      213: 8682857765102296801
+    second: 04-scout_10
+  - first:
+      213: 7213426237111911674
+    second: 04-scout_11
+  - first:
+      213: -6134332333085464359
+    second: 04-scout_12
+  - first:
+      213: 9145065850218731066
+    second: 04-scout_13
+  - first:
+      213: 7148059486382972674
+    second: 04-scout_14
+  - first:
+      213: 3945677872568399537
+    second: 04-scout_15
+  - first:
+      213: -6844745946948681355
+    second: 04-scout_16
+  - first:
+      213: -7658112806985218721
+    second: 04-scout_17
+  - first:
+      213: 8353755453517131299
+    second: 04-scout_18
+  - first:
+      213: 7094114270638422558
+    second: 04-scout_19
+  - first:
+      213: 3082221332929648984
+    second: 04-scout_20
+  - first:
+      213: -690032059351181375
+    second: 04-scout_21
+  - first:
+      213: 6215574750934272411
+    second: 04-scout_22
+  - first:
+      213: 2071238595323796096
+    second: 04-scout_23
+  - first:
+      213: -2256041506303103568
+    second: 04-scout_24
+  - first:
+      213: 6676851355022717652
+    second: 04-scout_25
+  - first:
+      213: -3157012617978478175
+    second: 04-scout_26
+  - first:
+      213: -788113483842580731
+    second: 04-scout_27
+  - first:
+      213: -4089933080080305747
+    second: 04-scout_28
+  - first:
+      213: -7723513603431781747
+    second: 04-scout_29
+  - first:
+      213: -493045370556598747
+    second: 04-scout_30
+  - first:
+      213: -5469680202527682292
+    second: 04-scout_31
+  - first:
+      213: -6846266694899673441
+    second: 04-scout_32
+  - first:
+      213: 5639042100454308252
+    second: 04-scout_33
+  - first:
+      213: 1521923622770261610
+    second: 04-scout_34
+  - first:
+      213: 217516671069477435
+    second: 04-scout_35
+  - first:
+      213: 7844579044769543083
+    second: 04-scout_36
+  - first:
+      213: 8502479516593156554
+    second: 04-scout_37
+  - first:
+      213: -4633301191439237159
+    second: 04-scout_38
+  - first:
+      213: 5323544610458266970
+    second: 04-scout_39
+  - first:
+      213: -5665126561923192190
+    second: 04-scout_40
+  - first:
+      213: -4814686330236852006
+    second: 04-scout_41
+  - first:
+      213: 9213089351122326797
+    second: 04-scout_42
+  - first:
+      213: -3944409284032666002
+    second: 04-scout_43
+  - first:
+      213: -5902902376870197362
+    second: 04-scout_44
+  - first:
+      213: -7567359799171366307
+    second: 04-scout_45
+  - first:
+      213: -5286897928136753643
+    second: 04-scout_46
+  - first:
+      213: -8727130858090200157
+    second: 04-scout_47
+  - first:
+      213: -3104273994622633430
+    second: 04-scout_48
+  - first:
+      213: 7549373086261268267
+    second: 04-scout_49
+  - first:
+      213: -1170964028044336829
+    second: 04-scout_50
+  - first:
+      213: 8268283301603174432
+    second: 04-scout_51
+  - first:
+      213: 6890511995163181612
+    second: 04-scout_52
+  - first:
+      213: -5052937569628351068
+    second: 04-scout_53
+  - first:
+      213: 3798819527259398564
+    second: 04-scout_54
+  - first:
+      213: 7692803620755548995
+    second: 04-scout_55
+  - first:
+      213: 1932530193913736264
+    second: 04-scout_56
+  - first:
+      213: 6901098562343576696
+    second: 04-scout_57
+  - first:
+      213: 2175903340902189384
+    second: 04-scout_58
+  - first:
+      213: 8298536101266757066
+    second: 04-scout_59
+  - first:
+      213: -5249944303480960271
+    second: 04-scout_60
+  - first:
+      213: -8916170034862779693
+    second: 04-scout_61
+  - first:
+      213: 5223750896974546775
+    second: 04-scout_62
+  - first:
+      213: 2058485947777959455
+    second: 04-scout_63
+  - first:
+      213: -3606255255415827017
+    second: 04-scout_64
+  - first:
+      213: 2133630249870836645
+    second: 04-scout_65
+  - first:
+      213: 8242229254047532469
+    second: 04-scout_66
+  - first:
+      213: -4719907159644317068
+    second: 04-scout_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 04-scout_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2a24dbe6da27690800000000000000
+      internalID: -7605826129542077751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 95
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e3538d61a1ba210800000000000000
+      internalID: 1345197599119195725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 15
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71d9d41a8a2eceb0800000000000000
+      internalID: -4697770588757175940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551b9e24d0da956e0800000000000000
+      internalID: -1848255899590086315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 95
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c702d4ba99093b40800000000000000
+      internalID: 5420374186580379584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 111
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbfdfef89002a8e0800000000000000
+      internalID: -1683782653570057229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 95
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c786802511fe8ec0800000000000000
+      internalID: -3562645182161188927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 15
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180b30a20fbc94750800000000000000
+      internalID: 6289782586957082753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 111
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829f331b0302e83d0800000000000000
+      internalID: -3202586891510351576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 95
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e112e45182a4790c0800000000000000
+      internalID: -4569101760927489762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee1a243225bf7870800000000000000
+      internalID: 8682857765102296801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4c98cb1fc3b1460800000000000000
+      internalID: 7213426237111911674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 15
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d86f308e397edaa0800000000000000
+      internalID: -6134332333085464359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36d7d920fcc9ee70800000000000000
+      internalID: 9145065850218731066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 95
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fd7371b32033360800000000000000
+      internalID: 7148059486382972674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 111
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6fe88be1dd1c630800000000000000
+      internalID: 3945677872568399537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 95
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571445683d39201a0800000000000000
+      internalID: -6844745946948681355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 15
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55c6c9f9fae8b590800000000000000
+      internalID: -7658112806985218721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 111
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eee5b23508ee370800000000000000
+      internalID: 8353755453517131299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_19
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 95
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1abe69c75b537260800000000000000
+      internalID: 7094114270638422558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8591764d8ff36ca20800000000000000
+      internalID: 3082221332929648984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7ddba7f738c66f0800000000000000
+      internalID: -690032059351181375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 79
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b990350fd48224650800000000000000
+      internalID: 6215574750934272411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a9a5f47848ebc10800000000000000
+      internalID: 2071238595323796096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd244af33ee0b0e0800000000000000
+      internalID: -2256041506303103568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 63
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2f6329ee0f8ac50800000000000000
+      internalID: 6676851355022717652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a187f120c90034d0800000000000000
+      internalID: -3157012617978478175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 63
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f0ed846fe0015f0800000000000000
+      internalID: -788113483842580731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 79
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1b1b67883ad37c0800000000000000
+      internalID: -4089933080080305747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a2d817c4190d490800000000000000
+      internalID: -7723513603431781747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 79
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526b2d509d95829f0800000000000000
+      internalID: -493045370556598747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01d95dd5dac714b0800000000000000
+      internalID: -5469680202527682292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 79
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96daecc6bc2df0a0800000000000000
+      internalID: -6846266694899673441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 63
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c993d07d9e6e14e40800000000000000
+      internalID: 5639042100454308252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_34
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 79
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e3f7ea875fe1510800000000000000
+      internalID: 1521923622770261610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_35
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 63
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a52d78246c40300800000000000000
+      internalID: 217516671069477435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba336ff241b8ddc60800000000000000
+      internalID: 7844579044769543083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1f1908210eef570800000000000000
+      internalID: 8502479516593156554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 47
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfbeda5d1533bfb0800000000000000
+      internalID: -4633301191439237159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_39
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d6f4c2e9701e940800000000000000
+      internalID: 5323544610458266970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a20f4386d6161b0800000000000000
+      internalID: -5665126561923192190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 31
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8ad4dba4cce2db0800000000000000
+      internalID: -4814686330236852006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_42
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 47
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d059499a3f77bdf70800000000000000
+      internalID: 9213089351122326797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66ea7097a4a249c0800000000000000
+      internalID: -3944409284032666002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_44
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 47
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87c7da209da41ea0800000000000000
+      internalID: -5902902376870197362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 31
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52c1d23b565bf690800000000000000
+      internalID: -7567359799171366307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 47
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ef8a5785a21a6b0800000000000000
+      internalID: -5286897928136753643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_47
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 31
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a30f2f09b003e680800000000000000
+      internalID: -8727130858090200157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_48
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 47
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2af801cf376be4d0800000000000000
+      internalID: -3104273994622633430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 31
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f4f7bd2d2c4c860800000000000000
+      internalID: 7549373086261268267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_50
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 47
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34128a7ab66efbfe0800000000000000
+      internalID: -1170964028044336829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_51
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028e9560bd7deb270800000000000000
+      internalID: 8268283301603174432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c220540f62400af50800000000000000
+      internalID: 6890511995163181612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a593125d0c50e9b0800000000000000
+      internalID: -5052937569628351068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 15
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a12d18ab3e18b430800000000000000
+      internalID: 3798819527259398564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b29f5822452ca60800000000000000
+      internalID: 7692803620755548995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ce1fde8f9b1da10800000000000000
+      internalID: 1932530193913736264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874a2703490a5cf50800000000000000
+      internalID: 6901098562343576696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 15
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8498f046f8c523e10800000000000000
+      internalID: 2175903340902189384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_59
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac592c7dd925a2370800000000000000
+      internalID: 8298536101266757066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_60
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 15
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa8e6ca8737427b0800000000000000
+      internalID: -5249944303480960271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_61
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2950bd796634480800000000000000
+      internalID: -8916170034862779693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_62
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 15
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757cb41a3cd7e7840800000000000000
+      internalID: 5223750896974546775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_63
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16407c2016319c10800000000000000
+      internalID: 2058485947777959455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 15
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5dd83b3f104fdc0800000000000000
+      internalID: -3606255255415827017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_65
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a34495686d2c9d10800000000000000
+      internalID: 2133630249870836645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_66
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 15
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b506dc56d7426270800000000000000
+      internalID: 8242229254047532469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 04-scout_67
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ad39802758f7eb0800000000000000
+      internalID: -4719907159644317068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      04-scout_0: -7605826129542077751
+      04-scout_1: 1345197599119195725
+      04-scout_10: 8682857765102296801
+      04-scout_11: 7213426237111911674
+      04-scout_12: -6134332333085464359
+      04-scout_13: 9145065850218731066
+      04-scout_14: 7148059486382972674
+      04-scout_15: 3945677872568399537
+      04-scout_16: -6844745946948681355
+      04-scout_17: -7658112806985218721
+      04-scout_18: 8353755453517131299
+      04-scout_19: 7094114270638422558
+      04-scout_2: -4697770588757175940
+      04-scout_20: 3082221332929648984
+      04-scout_21: -690032059351181375
+      04-scout_22: 6215574750934272411
+      04-scout_23: 2071238595323796096
+      04-scout_24: -2256041506303103568
+      04-scout_25: 6676851355022717652
+      04-scout_26: -3157012617978478175
+      04-scout_27: -788113483842580731
+      04-scout_28: -4089933080080305747
+      04-scout_29: -7723513603431781747
+      04-scout_3: -1848255899590086315
+      04-scout_30: -493045370556598747
+      04-scout_31: -5469680202527682292
+      04-scout_32: -6846266694899673441
+      04-scout_33: 5639042100454308252
+      04-scout_34: 1521923622770261610
+      04-scout_35: 217516671069477435
+      04-scout_36: 7844579044769543083
+      04-scout_37: 8502479516593156554
+      04-scout_38: -4633301191439237159
+      04-scout_39: 5323544610458266970
+      04-scout_4: 5420374186580379584
+      04-scout_40: -5665126561923192190
+      04-scout_41: -4814686330236852006
+      04-scout_42: 9213089351122326797
+      04-scout_43: -3944409284032666002
+      04-scout_44: -5902902376870197362
+      04-scout_45: -7567359799171366307
+      04-scout_46: -5286897928136753643
+      04-scout_47: -8727130858090200157
+      04-scout_48: -3104273994622633430
+      04-scout_49: 7549373086261268267
+      04-scout_5: -1683782653570057229
+      04-scout_50: -1170964028044336829
+      04-scout_51: 8268283301603174432
+      04-scout_52: 6890511995163181612
+      04-scout_53: -5052937569628351068
+      04-scout_54: 3798819527259398564
+      04-scout_55: 7692803620755548995
+      04-scout_56: 1932530193913736264
+      04-scout_57: 6901098562343576696
+      04-scout_58: 2175903340902189384
+      04-scout_59: 8298536101266757066
+      04-scout_6: -3562645182161188927
+      04-scout_60: -5249944303480960271
+      04-scout_61: -8916170034862779693
+      04-scout_62: 5223750896974546775
+      04-scout_63: 2058485947777959455
+      04-scout_64: -3606255255415827017
+      04-scout_65: 2133630249870836645
+      04-scout_66: 8242229254047532469
+      04-scout_67: -4719907159644317068
+      04-scout_7: 6289782586957082753
+      04-scout_8: -3202586891510351576
+      04-scout_9: -4569101760927489762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
