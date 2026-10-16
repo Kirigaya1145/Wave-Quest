@@ -21,6 +21,9 @@ public class WaveAnimator : MonoBehaviour
     [SerializeField] private int dashCount = 15;
     private LineRenderer[] dashes;
 
+    public bool usePanjangGelombang = false;
+    public float panjangGelombang = 4f;
+    float K => usePanjangGelombang ? 2f * Mathf.PI / panjangGelombang : kerapatan;
     void Start()
     {
         coils = new LineRenderer[pointCount];
@@ -79,7 +82,7 @@ public class WaveAnimator : MonoBehaviour
                 {
                     float t = i / (float)pointCount;
                     float x = t * panjang - (panjang / 2f);
-                    float y = amplitudo * Mathf.Sin(x * kerapatan - time);
+                    float y = amplitudo * Mathf.Sin(x * K - time);
                     line.SetPosition(i, new Vector3(x, y, 0));
                 }
             }
@@ -92,7 +95,7 @@ public class WaveAnimator : MonoBehaviour
             {
                 float t = i / (float)pointCount;
                 float baseX = t * panjang - (panjang / 2f);
-                float offset = amplitudo * Mathf.Sin(baseX * kerapatan - time);
+                float offset = amplitudo * Mathf.Sin(baseX * K - time);
                 float centerX = baseX + offset;
 
                 for (int j = 0; j < coilSegments; j++)
@@ -112,9 +115,9 @@ public class WaveAnimator : MonoBehaviour
             float t1 = i / (float)dashCount;
             float t2 = t1 + (0.5f / dashCount);
             float x1 = t1 * panjang - (panjang / 2f);
-            float y1 = amplitudo * Mathf.Sin(x1 * kerapatan - time);
+            float y1 = amplitudo * Mathf.Sin(x1 * K - time);
             float x2 = t2 * panjang - (panjang / 2f);
-            float y2 = amplitudo * Mathf.Sin(x2 * kerapatan - time);
+            float y2 = amplitudo * Mathf.Sin(x2 * K - time);
 
             dashes[i].SetPosition(0, new Vector3(x1, y1, 0));
             dashes[i].SetPosition(1, new Vector3(x2, y2, 0));
